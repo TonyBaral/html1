@@ -1,0 +1,29 @@
+.naglowek{
+  font-size: 40px;
+  color: chocolate;
+  padding: 20px;
+  text-align: center;
+  clear:both;
+}
+.cat{
+  background: burlywood;
+  height: 500px;
+  width: 30%;
+  float: left;
+}
+.tabela{
+  background: bisque;
+  height: 500px;
+  width: 70%;
+  float: left;
+}
+.kolor{
+  background: floralwhite;
+
+}
+
+.border{
+  border-width: 5px;
+  border-color: olivedrab;
+
+}
